@@ -282,7 +282,17 @@ background-color:#888990;
         min-width: 150vw;
         min-height: 300vh;
     }
-
+    video{
+        width: 100%;
+        height: auto;
+    }
+    #page1 {
+        height:29vh;
+        width: 100%;
+    }
+ #page2, #page3{
+    background-color: #000;
+}
     #page3 p {
         font-size: 25px;
     }
